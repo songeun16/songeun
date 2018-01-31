@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517395747460.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1409401017",
+    "id" : "EECBA7EE",
+    "lastKnownWriteTime" : 1517395769,
+    "last_content_update" : 1517395769788,
+    "path" : "~/a/bb.R",
+    "project_path" : "bb.R",
+    "properties" : {
+        "cursorPosition" : "0,12",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
